@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+django.db.backends.postgresql_psycopg2
+/static
+.DS_Store
