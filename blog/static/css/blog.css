@@ -4,7 +4,7 @@ h1 a {
 
 body {
     padding-left: 15px;
-    font-family: 'Lobster';
+    font-family: 'Open Sans Condensed';
 }
 .page-header {
     background-color: #ff9400;
@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .date {
