@@ -2,6 +2,6 @@
 *~
 __pycache__
 myvenv
-django.db.backends.postgresql_psycopg2
+django.db.backends.db.sqlite3
 /static
 .DS_Store
